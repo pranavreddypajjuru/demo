@@ -11,3 +11,4 @@ else:
     print(f'"{text}" is not a palindrome.')
 
 print("End of the program")
+print("Just for undo commit")
