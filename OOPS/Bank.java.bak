@@ -1,0 +1,22 @@
+import java.util.ArrayList;
+class Bank implements BankOperations
+{
+	private List<Customer> customers = new ArrayList<>();
+	private List<Transaction> transactions = new ArrayList<>();
+
+	void addCustomer(Customer customer)
+	{
+	}
+
+	void performTransaction(int accountNumber, String type, double amount)
+	{
+	}
+
+	void displayCustomers()
+	{
+	}
+
+	void displayTransactions()
+	{
+	}
+}
